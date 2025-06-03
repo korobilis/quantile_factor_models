@@ -157,7 +157,7 @@ This code is released under the MIT License. See [LICENSE](LICENSE) for details.
 ## Authors
 
 - **Dimitris Korobilis** - University of Glasgow
-- **Maximilian Schröder** - Freie Universität Berlin
+- **Maximilian Schröder** - European Central Bank
 
 ## Contact
 
