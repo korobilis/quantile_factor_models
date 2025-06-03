@@ -1,0 +1,8 @@
+Code to replicate:
+
+Korobilis, D. and Schröder, M.  (forthcoming).“Probabilistic Quantile Factor Analysis,” Journal of Business and Economic Statistics. 
+
+
+There are four folders. The first two (Empirical_1 and Empirical_2) replicate the first two exercises that extract quantile factors from uncertainty and FCI data, respectively.
+
+The second two folders replicate some of the numerous Monte Carlo exercises we have in the paper and online appendix. The one named _ELBO prints estimates accurately the lower bound of the variational Bayes algorithm in order to do factor selection. The folder with the extension _MAIN replicates the first Monte Carlo exercise where we compare our algorithm to the IQR algorithm using various flexible error distributions.
